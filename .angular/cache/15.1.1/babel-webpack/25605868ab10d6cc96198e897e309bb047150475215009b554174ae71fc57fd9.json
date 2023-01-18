@@ -1,1 +1,0 @@
-{"ast":null,"code":"export let DattaConfig = /*#__PURE__*/(() => {\n  class DattaConfig {}\n  DattaConfig.layout = 'vertical';\n  DattaConfig.isCollapseMenu = false;\n  return DattaConfig;\n})();","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
